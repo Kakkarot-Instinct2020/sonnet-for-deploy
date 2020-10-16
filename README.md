@@ -1,7 +1,7 @@
 # sonnet-for-deploy
 these are the heavy size files. Please download it from google drive.
 
-https://drive.google.com/drive/folders/15ICe-ULNCzOLltAJTdZX1MsxU-m3eOGK?usp=sharing
+https://drive.google.com/file/d/1XxG7V3UuoaDiSSZfvUvrOFBZC5VZFpr5/view?usp=sharing
 
 https://drive.google.com/file/d/1-5hYDRh6ItGGQHe3CFdWoD9Gnz1oEC07/view?usp=sharing
 
